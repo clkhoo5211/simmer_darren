@@ -1,5 +1,5 @@
 {
-  "apiBaseUrl": "http://localhost:62476",
+  "apiBaseUrl": "https://admin.nbn.network/poly12346",
   "polyUseDirectLive": true,
-  "polyFunderAddress": "0xcf5c815737828241930b34480bb454b310cdf678"
+  "polyFunderAddress": "0x2534A42EACAFC9445C381bEB33643e12019bf2f3"
 }
